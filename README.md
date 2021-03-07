@@ -15,5 +15,5 @@ Kraken is multi language supported for printed text &amp; handwritten text local
 ![alt text](https://github.com/SSusantAchary/kraken_ocr_engine/blob/main/output.JPG)
 
 ### Future updates
-1. will update the code base with more working codes with complete pipeline.
+1. will update the code base with more working codes and Examples pipeline.
 
